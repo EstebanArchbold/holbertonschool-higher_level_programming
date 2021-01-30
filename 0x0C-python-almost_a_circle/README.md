@@ -107,7 +107,3 @@ What you should learn from this project:
 ### [21. Let's draw it](./models/base.py)
 * Update the class Base by adding the static method def draw(list_rectangles, list_squares): that opens a window and draws all the Rectangles and Squares:
 
----
-
-## Author
-* **Laura Perez** - [lperezcas16](https://github.com/lperezcas16)
